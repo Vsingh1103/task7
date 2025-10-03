@@ -31,7 +31,7 @@
 
 ## Definitions and Usage Examples
 
-### 1. Create a Simple View
+###  Create a Simple View
 Show only employee names and salaries (hiding department details).  
 ```sql
 CREATE VIEW EmployeeSalaries AS
