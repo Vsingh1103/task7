@@ -1,6 +1,5 @@
 # task7
-# SQL Views 
-
+# SQL Views
 ## Objective
 - Learn how to **create and use views** in SQL.  
 - Understand how views provide **abstraction, simplification, and security**.  
